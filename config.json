@@ -1,6 +1,6 @@
 {
 	"ip":"chaosempire.aternos.me",
-	"port": "25565",
+	"port": "20383",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
